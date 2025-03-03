@@ -1,0 +1,3 @@
+Hello Professor! Unfortunately, this incomplete submission is all I have for now with other classes and midterms coming up that I must also devote time towards.
+For the most part, these were revisions to the original 01-rodcut rather than implementation of caching unfortunately. 
+A major personal issue with this is I'm really not sure where to begin with this, perhaps due to my lack of experience with previous data structures and I fully intend to seek out additional office hours for further help.
